@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Box, Heading, Paragraph } from 'grommet';
+import { Box, Paragraph } from 'grommet';
 
 export class Welcome extends Component {
     render() {

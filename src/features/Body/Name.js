@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button } from 'grommet';
+import { Button, Text, Box } from 'grommet';
 
 export const Name = () => {
     const [count, setCount] = React.useState(0)
